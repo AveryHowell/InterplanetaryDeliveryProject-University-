@@ -1,0 +1,36 @@
+Shipping information entered on Wed Dec 07 18:59:19 2016
+------------------------------------------------------
+Cargo: Part 1-152A
+Earth weight: 20000.00 lbs.
+Weight on Venus (pick-up): 17200.00 lbs.
+Weight on Uranus (drop-off): 18400.00 lbs.
+Distance traveled: 1715 million miles
+Time in transit: 39 year(s), 56 day(s), and 16.00 hour(s)(at a speed of 5000 mph)
+
+Shipping information entered on Wed Dec 07 18:59:46 2016
+------------------------------------------------------
+Cargo: Part 2-756B
+Earth weight: 20000.00 lbs.
+Weight on Uranus (pick-up): 18400.00 lbs.
+Weight on Venus (drop-off): 17200.00 lbs.
+Distance traveled: 1715 million miles
+Time in transit: 39 year(s), 56 day(s), and 16.00 hour(s)(at a speed of 5000 mph)
+
+Shipping information entered on Wed Dec 07 19:00:42 2016
+------------------------------------------------------
+Cargo: Cinnamon Rolls
+Earth weight: 0.69 lbs.
+Weight on Neptune (pick-up): 1.00 lbs.
+Weight on Mercury (drop-off): 0.19 lbs.
+Distance traveled: 2757 million miles
+Time in transit: 0 year(s), 0 day(s), and 4.11 hour(s)(at a speed of 670616629 mph)
+
+Shipping information entered on Wed Dec 07 19:18:48 2016
+------------------------------------------------------
+Cargo: Screwdrivers
+Earth weight: 20000.00 lbs.
+Weight on Mercury (pick-up): 5400.00 lbs.
+Weight on Mars (drop-off): 7400.00 lbs.
+Distance traveled: 105 million miles
+Time in transit: 0 year(s), 0 day(s), and 0.16 hour(s)(at a speed of 670616629 mph)
+
