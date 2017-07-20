@@ -1,5 +1,4 @@
-//Carson Lutterloh
-//cjl150530
+//cjlutterloh
 //CS/CE 1337.505
 //Project #5
 
