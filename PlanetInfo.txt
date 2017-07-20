@@ -6,6 +6,7 @@ Jupiter 483 2.64
 Saturn 886 1.17
 Uranus 1782 0.92
 Neptune 2793 1.44
-Pluto 123 2.30 TESTING (THIS LINE WILL NOT BE LOOKED AT. The program only checks 8 lines of text. THIS IS ONLY HERE FOR TEST PURPOSES)
+Pluto 123 2.30 
+TESTING (THIS LINE WILL NOT BE LOOKED AT. The program only checks 8 lines of text. THIS IS ONLY HERE FOR TEST PURPOSES)
 
 
